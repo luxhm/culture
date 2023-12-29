@@ -1,0 +1,34 @@
+{
+  "name": "express-servers-GET",
+  "version": "1.0.0",
+  "description": "A place where I can keep track of the things on the internet I enjoy",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "brew": "0.0.8",
+    "btoa": "^1.2.1",
+    "callback": "0.0.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "fs": "0.0.1-security",
+    "passport": "^0.5.2",
+    "passport-google-oauth": "^2.0.0",
+    "passport-google-oauth2": "^0.2.0",
+    "request": "^2.88.2",
+    "session": "^0.1.0"
+  },
+  "keywords": [
+    "culture",
+    "link"
+  ],
+  "engines": {
+    "node": "14.x"
+  }
+}
